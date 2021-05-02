@@ -1,4 +1,4 @@
-# TensorFlow-Slim
+# [TensorFlow-Slim](https://github.com/google-research/tf-slim)
 
 TF-Slim is a lightweight library for defining, training and evaluating complex
 models in TensorFlow. Components of tf-slim can be freely mixed with native
